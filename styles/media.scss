@@ -1,0 +1,15 @@
+//
+// responsive css
+// --------------------------------------------
+
+
+@media screen and (max-width: 1680px){
+  .header .navbar-r{
+    position: static;
+    float: none;
+  }
+  .header img {
+    margin: 43px auto;
+    display: block;
+  }
+}
